@@ -1,21 +1,21 @@
 # $db
 
-[$db.Get](/_blank/content/db.get.html)
+[$db.Get](./db.get.html)
 
-[$db.GetAll](/_blank/content/db.getall.html)
+[$db.GetAll](./db.getall.html)
 
-[$db.GetAllStrings](/_blank/content/db.getallstrings.html)
+[$db.GetAllStrings](./db.getallstrings.html)
 
-[$db.Set](/_blank/content/db.set.html)
+[$db.Set](./db.set.html)
 
-[$db.Insert](/_blank/content/db.insert.html)
+[$db.Insert](./db.insert.html)
 
-[$db.Delete](/_blank/content/db.delete.html)
+[$db.Delete](./db.delete.html)
 
-[$db.Del](/_blank/content/db.del.html)
+[$db.Del](./db.del.html)
 
-[$db.NextSequence](/_blank/content/db.nextsequence.html)
+[$db.NextSequence](./db.nextsequence.html)
 
-[$db.Notify](/_blank/content/db.notify.html)
+[$db.Notify](./db.notify.html)
 
-[$db.NewId](/_blank/content/db.newid.html)
+[$db.NewId](./db.newid.html)
