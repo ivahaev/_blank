@@ -13,4 +13,5 @@
        * $db.Del
        * $db.NextSequence
        * $db.Notify
+       * $db.NewId
 
