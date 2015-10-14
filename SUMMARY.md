@@ -9,4 +9,5 @@
        * $db.GetAllStrings
        * $db.Set
        * $db.Insert
+       * $db.Delete
 
