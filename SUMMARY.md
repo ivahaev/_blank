@@ -8,7 +8,7 @@
        * [$db.GetAll](db.getall.md)
        * [$db.GetAllStrings](db.getallstrings.md)
        * [$db.Set](db.set.md)
-       * $db.Insert
+       * [$db.Insert](db.insert.md)
        * $db.Delete
        * $db.Del
        * $db.NextSequence
