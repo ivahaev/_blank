@@ -10,7 +10,7 @@
        * [$db.Set](db.set.md)
        * [$db.Insert](db.insert.md)
        * [$db.Delete](db.delete.md)
-       * $db.Del
+       * [$db.Del](db.del.md)
        * $db.NextSequence
        * $db.Notify
        * $db.NewId
