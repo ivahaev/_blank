@@ -6,7 +6,7 @@
    * [$db](db.md)
        * [$db.Get](db.get.md)
        * [$db.GetAll](db.getall.md)
-       * $db.GetAllStrings
+       * [$db.GetAllStrings](db.getallstrings.md)
        * $db.Set
        * $db.Insert
        * $db.Delete
