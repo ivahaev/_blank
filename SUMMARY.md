@@ -8,4 +8,5 @@
        * $db.GetAll
        * $db.GetAllStrings
        * $db.Set
+       * $db.Insert
 
