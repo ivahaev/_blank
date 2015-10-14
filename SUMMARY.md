@@ -11,4 +11,5 @@
        * $db.Insert
        * $db.Delete
        * $db.Del
+       * $db.NextSequence
 
