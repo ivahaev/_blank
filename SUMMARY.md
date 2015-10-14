@@ -3,4 +3,5 @@
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
 * [JS API](js_api.md)
+   * $db
 
