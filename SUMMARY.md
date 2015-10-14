@@ -10,4 +10,5 @@
        * $db.Set
        * $db.Insert
        * $db.Delete
+       * $db.Del
 
