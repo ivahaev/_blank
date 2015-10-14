@@ -11,7 +11,7 @@
 ## $db
 
 
-### $db.Get(_id, [store])
+### $db.Get
 
 ```$db.Get```
 
