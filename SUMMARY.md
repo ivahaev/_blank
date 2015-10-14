@@ -13,5 +13,5 @@
        * [$db.Del](db.del.md)
        * [$db.NextSequence](db.nextsequence.md)
        * [$db.Notify](db.notify.md)
-       * $db.NewId
+       * [$db.NewId](db.newid.md)
 
