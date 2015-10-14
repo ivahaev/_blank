@@ -16,5 +16,5 @@
        * [$db.NewId](db.newid.md)
    * [$email](email.md)
        * [$email.Send](email.send.md)
-* Configuration
+* [Configuration](configuration.md)
 
