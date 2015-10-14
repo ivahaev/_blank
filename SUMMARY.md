@@ -11,7 +11,7 @@
        * [$db.Insert](db.insert.md)
        * [$db.Delete](db.delete.md)
        * [$db.Del](db.del.md)
-       * $db.NextSequence
+       * [$db.NextSequence](db.nextsequence.md)
        * $db.Notify
        * $db.NewId
 
