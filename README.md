@@ -1,4 +1,4 @@
-My Awesome Book
+_blank - the only platform for everything
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Тут типа описание того, нафига это вообще нужно.
