@@ -14,4 +14,5 @@
        * [$db.NextSequence](db.nextsequence.md)
        * [$db.Notify](db.notify.md)
        * [$db.NewId](db.newid.md)
+   * $email
 
