@@ -7,4 +7,5 @@
        * [$db.Get](db.get.md)
        * $db.GetAll
        * $db.GetAllStrings
+       * $db.Set
 
