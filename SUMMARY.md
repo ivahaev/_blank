@@ -6,4 +6,5 @@
    * [$db](db.md)
        * [$db.Get](db.get.md)
        * $db.GetAll
+       * $db.GetAllStrings
 
