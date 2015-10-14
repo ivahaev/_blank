@@ -5,7 +5,7 @@
 * [JS API](js_api.md)
    * [$db](db.md)
        * [$db.Get](db.get.md)
-       * $db.GetAll
+       * [$db.GetAll](db.getall.md)
        * $db.GetAllStrings
        * $db.Set
        * $db.Insert
