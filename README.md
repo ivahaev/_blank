@@ -1,4 +1,4 @@
-_blank - the only platform for everything
+_blank - the only platform you need
 =======
 
 Вы собираетеcь приготовить омлет? Вам нужен Blank!
