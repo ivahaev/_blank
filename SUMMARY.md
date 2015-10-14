@@ -15,4 +15,5 @@
        * [$db.Notify](db.notify.md)
        * [$db.NewId](db.newid.md)
    * [$email](email.md)
+       * $email.Send
 
