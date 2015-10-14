@@ -9,7 +9,7 @@
        * [$db.GetAllStrings](db.getallstrings.md)
        * [$db.Set](db.set.md)
        * [$db.Insert](db.insert.md)
-       * $db.Delete
+       * [$db.Delete](db.delete.md)
        * $db.Del
        * $db.NextSequence
        * $db.Notify
