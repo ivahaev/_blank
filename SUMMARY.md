@@ -18,4 +18,5 @@
        * [$email.Send](email.send.md)
 * [Configuration](configuration.md)
    * [Filters](store.filters.md)
+   * Introduction
 
