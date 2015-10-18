@@ -4,7 +4,6 @@
 * [First Chapter](chapter1.md)
 * [Configuration](configuration.md)
    * [Filters](store.filters.md)
-   * [Introduction](config.introduction.md)
 * [JS API](js_api.md)
    * [$db](db.md)
        * [$db.Get](db.get.md)
