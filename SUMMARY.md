@@ -2,6 +2,9 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
+* [Configuration](configuration.md)
+   * [Filters](store.filters.md)
+   * [Introduction](config.introduction.md)
 * [JS API](js_api.md)
    * [$db](db.md)
        * [$db.Get](db.get.md)
@@ -16,7 +19,4 @@
        * [$db.NewId](db.newid.md)
    * [$email](email.md)
        * [$email.Send](email.send.md)
-* [Configuration](configuration.md)
-   * [Filters](store.filters.md)
-   * [Introduction](config.introduction.md)
 
