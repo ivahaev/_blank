@@ -20,7 +20,7 @@
     "display": "Type of display such in props. Allowed: textInput, searchBox, select, masked",
     "placeholder": "Placeholder for display==textInput",
     "conditions": "Array of conditions to compare with",
-    "searchBy": "Only for display==searchBox. Props for search in store",
+    "searchBy": "Only for display==searchBox. Array of props for search in store",
     "store": "Only for display==searchBox. Store for search",
     "filterBy": "WTF???",
     "values": "Only for display==select. Values with labels for select",
@@ -43,3 +43,36 @@
 `!=` means no equals exactly. For strings used no case sensitivity comparison.  
 `contains` means that search string included in prop's value. For strings used no case sensitivity comparison.  
 `>`, `>=`, `<`, `<=` as in Javascript.  
+
+## Example
+
+```
+"filters": {
+    "textFilter": {
+        "label": "Search",
+        "display": "textInput",
+        "conditions": [
+            {
+                "property": "name",
+                "operator": "contains"
+            },
+            {
+                "property": "address",
+                "operator": "contains"
+            }
+        ]
+    },
+    "textFilter": {
+        "label": "City",
+        "display": "searchBox",
+        "store": "cities",
+        "searchBy": ["name", "fullName"],
+        "conditions": [
+            {
+                "property": "cityId",
+                "operator": "="
+            }
+        ]
+    }
+}
+```
