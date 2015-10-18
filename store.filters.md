@@ -17,7 +17,7 @@
 ```
 {
     "label": "Label for using in browser form",
-    "display": "Type of display such in props. Allowed: textInput, searchBox, select, masked",
+    "display": "Type of display such in props. Allowed: textInput, searchBox, select, masked, dateRange",
     "placeholder": "Placeholder for display==textInput",
     "conditions": "Array of conditions to compare with",
     "searchBy": "Only for display==searchBox. Array of props for search in store",
@@ -71,6 +71,16 @@
             {
                 "property": "cityId",
                 "operator": "="
+            }
+        ]
+    },
+    "createdAt": {
+        "label": "Created",
+        "display": "dateRange",
+        "conditions": [
+            {
+                "property": "createdAt",
+                "operator": "contains"
             }
         ]
     }
