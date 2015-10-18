@@ -17,4 +17,5 @@
    * [$email](email.md)
        * [$email.Send](email.send.md)
 * [Configuration](configuration.md)
+   * Filters
 
