@@ -7,6 +7,6 @@ From data kept in `$request.Form.Value` object as array of strings. For example,
 ```
 var siteId = $request.Form.Value['siteId'];
 if (siteId != null) {
-    console.log(siteId[0])
+    console.log(siteId[0]);
 }
 ```
