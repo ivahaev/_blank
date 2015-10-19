@@ -1,11 +1,11 @@
-# $email.Send
+# $email.send
 
 Метод $db.Send() отправляет письмо.
 
 ## Синтаксис
 
 ```
-$db.Send(message)
+$db.send(message)
 ```
 
 ## Параметры
