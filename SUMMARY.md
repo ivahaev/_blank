@@ -24,4 +24,5 @@
        * [$request.Params](request.params.md)
        * [$request.IP](request.ip.md)
    * [$response](response.md)
+       * $response.Header
 
