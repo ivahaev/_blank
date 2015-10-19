@@ -5,6 +5,6 @@
 Платформа имеет несколько точек запуска скриптов на Javascript.
 Доступны следующие модули:
 * [$db](./db.html)
-* [$email](./email.html)
-* $request
-* $response
+* [$request](./request.html)
+* [$response](./response.html)
+* [email](./email.html)
