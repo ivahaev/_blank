@@ -28,4 +28,5 @@
        * $response.JSON
        * $response.XML
        * $response.HTML
+       * $response.File
 
