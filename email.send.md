@@ -1,11 +1,11 @@
-# $email.send
+# email.send
 
-Метод $db.send() отправляет письмо.
+Метод email.send() отправляет письмо.
 
 ## Синтаксис
 
 ```
-$db.send(message)
+email.send(message)
 ```
 
 ## Параметры
