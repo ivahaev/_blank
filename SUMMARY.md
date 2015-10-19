@@ -21,6 +21,6 @@
    * [$request](request.md)
        * [$request.Form](request.form.md)
        * [$request.Query](request.query.md)
-       * $request.Params
+       * [$request.Params](request.params.md)
    * [$response](response.md)
 
