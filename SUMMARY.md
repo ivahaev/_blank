@@ -20,6 +20,6 @@
        * [email.send](email.send.md)
    * [$request](request.md)
        * [$request.Form](request.form.md)
-       * $request.Query
+       * [$request.Query](request.query.md)
    * [$response](response.md)
 
