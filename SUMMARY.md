@@ -26,4 +26,5 @@
    * [$response](response.md)
        * $response.Header
        * $response.JSON
+       * $response.XML
 
