@@ -18,6 +18,6 @@
        * [$db.NewId](db.newid.md)
    * [email](email.md)
        * [email.send](email.send.md)
-   * $request
+   * [$request](request.md)
    * $response
 
