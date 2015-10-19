@@ -25,4 +25,5 @@
        * [$request.IP](request.ip.md)
    * [$response](response.md)
        * $response.Header
+       * $response.JSON
 
