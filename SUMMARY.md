@@ -27,4 +27,5 @@
        * $response.Header
        * $response.JSON
        * $response.XML
+       * $response.HTML
 
