@@ -25,7 +25,7 @@
        * [$request.IP](request.ip.md)
    * [$response](response.md)
        * [$response.Header](response.header.md)
-       * $response.JSON
+       * [$response.JSON](response.json.md)
        * $response.XML
        * $response.HTML
        * $response.File
