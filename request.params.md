@@ -5,10 +5,11 @@
 ## Example
 
 ```
-"httpHooks": {
-    "example/:id": {
+"httpHooks": [
+    {
+        "uri": "example/:id",
         "method": "GET",
         "script": "console.log($request.Params['id'])"
     }
-}
+]
 ```
