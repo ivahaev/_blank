@@ -19,5 +19,5 @@
    * [email](email.md)
        * [email.send](email.send.md)
    * [$request](request.md)
-   * $response
+   * [$response](response.md)
 
