@@ -2,7 +2,7 @@
 
 Модуль `$response`, доступный в http хуках, предназначен для отправки информации в браузер (http клиент).
 
-## Методы
+## Methods
 
 * $response.Header
 * $response.JSON
