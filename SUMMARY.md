@@ -19,6 +19,6 @@
    * [email](email.md)
        * [email.send](email.send.md)
    * [$request](request.md)
-       * $request.Form
+       * [$request.Form](request.form.md)
    * [$response](response.md)
 
