@@ -29,4 +29,5 @@
        * $response.XML
        * $response.HTML
        * $response.File
+       * $response.Redirect
 
