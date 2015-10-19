@@ -22,5 +22,6 @@
        * [$request.Form](request.form.md)
        * [$request.Query](request.query.md)
        * [$request.Params](request.params.md)
+       * $request.IP
    * [$response](response.md)
 
