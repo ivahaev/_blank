@@ -4,9 +4,9 @@
 
 ## Methods
 
-* $response.Header
-* $response.JSON
-* $response.XML
-* $response.HTML
-* $response.File
-* $reponse.Redirect
+* [$response.Header](./response.header.html)
+* [$response.JSON](./response.json.html)
+* [$response.XML](./response.xml.html)
+* [$response.HTML](./response.html.html)
+* [$response.File](./response.file.html)
+* [$response.Redirect](./response.redirect.html)
