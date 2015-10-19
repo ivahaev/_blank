@@ -1,5 +1,13 @@
-# $email
+# email
 
 Модуль предназначен для отправки писем.
 
-[$email.Send](./email.send.html)
+## Использование
+
+```
+var email = require('email');
+```
+
+## Методы:
+
+[email.send](./email.send.html)
