@@ -2,7 +2,7 @@
 
 Модуль `$request` доступен в http хуках, позволяет получить доступ к информации в http запросе.
 
-## Свойства
+## Properties
 
 * $request.Form
 * $request.Query
