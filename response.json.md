@@ -14,7 +14,7 @@ $response.JSON(code, data)
 HTTP response code (int)
 
 ### data
-Response data (object|array|string)
+Response data (object|array|string). Data will serialized automatically.
 
 ## Examples
 
