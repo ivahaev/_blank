@@ -27,7 +27,7 @@
        * [$response.Header](response.header.md)
        * [$response.JSON](response.json.md)
        * [$response.XML](response.xml.md)
-       * $response.HTML
+       * [$response.HTML](response.html.md)
        * $response.File
        * $response.Redirect
 
