@@ -1,6 +1,5 @@
 # $response.File
 
-
 Method `$response.File` writes the specified file into the body stream in a efficient way.
 
 ## Syntax
