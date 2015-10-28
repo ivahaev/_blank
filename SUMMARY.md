@@ -18,7 +18,7 @@
        * [html](store.html.md)
        * [httpHooks](store.httphooks.md)
        * [i18n](i18n.md)
-       * icon
+       * [icon](store.icon.md)
        * labels
        * listViewOnly
        * [menuGroup](store.menugroup.md)
