@@ -49,7 +49,6 @@
        * icon
        * localName
        * multi
-       * ownerAccess
        * props
        * script
        * type
