@@ -45,7 +45,7 @@
        * [disableInStates](action.disableinstates.md)
        * [disabled](action.disabled.md)
        * [enableInStates](action.enableinstates.md)
-       * [extra](actions.extra.md)
+       * [extra](action.extra.md)
        * icon
        * localName
        * multi
