@@ -31,7 +31,7 @@
        * [props](store.props.md)
        * [states](store.states.md)
        * [storeActions](store.storeactions.md)
-       * storeLifeCycle
+       * [storeLifeCycle](store.storelifecycle.md)
        * tableColumns
        * tasks
        * [type](store.type.md)
