@@ -8,6 +8,7 @@
        * [access](access.md)
        * actions
        * config
+       * disableAutoSelect
        * [type](store.type.md)
        * [menuGroup](store.menugroup.md)
        * [i18n](i18n.md)
@@ -25,7 +26,6 @@
        * html
        * labels
        * tableColumns
-       * disableAutoSelect
        * orderBy
        * listViewOnly
        * fullWidth
