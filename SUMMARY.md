@@ -25,6 +25,7 @@
        * [menuGroup](store.menugroup.md)
        * navLinkActiveStyle
        * navLinkHoverStyle
+       * navLinkStyle
        * [type](store.type.md)
        * objectLifeCycle
        * storeLifeCycle
@@ -33,7 +34,6 @@
        * storeActions
        * tableColumns
        * orderBy
-       * navLinkStyle
        * tasks
        * props
 * [JS API](js_api.md)
