@@ -37,6 +37,7 @@
        * tasks
        * [type](store.type.md)
    * [Action](store.action.md)
+       * _id
 * [JS API](js_api.md)
    * [$db](db.md)
        * [$db.Get](db.get.md)
