@@ -30,7 +30,7 @@
        * [printTemplates](store.printtemplates.md)
        * [props](store.props.md)
        * [states](store.states.md)
-       * storeActions
+       * [storeActions](store.storeactions.md)
        * storeLifeCycle
        * tableColumns
        * tasks
