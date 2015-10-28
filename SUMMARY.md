@@ -24,6 +24,7 @@
        * listViewOnly
        * [menuGroup](store.menugroup.md)
        * navLinkActiveStyle
+       * navLinkHoverStyle
        * [type](store.type.md)
        * objectLifeCycle
        * storeLifeCycle
@@ -33,7 +34,6 @@
        * tableColumns
        * orderBy
        * navLinkStyle
-       * navLinkHoverStyle
        * tasks
        * props
 * [JS API](js_api.md)
