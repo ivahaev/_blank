@@ -43,7 +43,7 @@
        * [clientPreScript](action.clientprescript.md)
        * [conditions](action.conditions.md)
        * [disableInStates](store.disableinstates.md)
-       * disabled
+       * [disabled](store.disabled.md)
        * enableInStates
        * extra
        * groupAccess
