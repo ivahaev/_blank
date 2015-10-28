@@ -33,9 +33,9 @@
        * states
        * storeActions
        * storeLifeCycle
-       * [type](store.type.md)
        * tableColumns
        * tasks
+* [type](store.type.md)
 * [JS API](js_api.md)
    * [$db](db.md)
        * [$db.Get](db.get.md)
