@@ -46,7 +46,6 @@
        * [disabled](store.disabled.md)
        * [enableInStates](store.enableinstates.md)
        * [extra](store.extra.md)
-       * groupAccess
        * icon
        * localName
        * multi
