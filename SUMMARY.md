@@ -26,7 +26,7 @@
        * [navLinkHoverStyle](store.navlinkhoverstyle.md)
        * [navLinkStyle](store.navlinkstyle.md)
        * objectLifeCycle
-       * orderBy
+       * [orderBy](store.orderby.md)
        * printTemplates
        * props
        * states
