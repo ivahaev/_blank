@@ -5,7 +5,7 @@
 * [Configuration](configuration.md)
    * [Filters](store.filters.md)
    * [Store Parameters](store_parameters.md)
-       * type
+       * [type](store.type.md)
        * access
        * menuGroup
        * i18n
