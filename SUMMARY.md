@@ -16,7 +16,7 @@
        * [formGroupsOrder](store.formgroupsorder.md)
        * [fullWidth](store.fullwidth.md)
        * [html](store.html.md)
-       * httpHooks
+       * [httpHooks](store.httphooks.md)
        * [i18n](i18n.md)
        * icon
        * labels
