@@ -5,7 +5,7 @@ Introduction to store parameters must be here.
 ## Total list of parameters
 * [type](#type)
 * [access](#access)
-* menuGroup
+* [menuGroup](#menuGroup)
 * i18n
 * icon
 * filters
