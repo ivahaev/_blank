@@ -32,7 +32,7 @@
        * [states](store.states.md)
        * [storeActions](store.storeactions.md)
        * [storeLifeCycle](store.storelifecycle.md)
-       * tableColumns
+       * [tableColumns](store.tablecolumns.md)
        * tasks
        * [type](store.type.md)
    * [Action](store.action.md)
