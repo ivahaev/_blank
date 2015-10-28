@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
 * [Configuration](configuration.md)
-   * [Filters](store.filters.md)
    * [Store Parameters](store_parameters.md)
        * [access](access.md)
        * [actions](store.actions.md)
@@ -13,6 +12,7 @@
        * [display](store.display.md)
        * [displayOrder](store.displayorder.md)
        * [entries](store.entries.md)
+       * [Filters](store.filters.md)
        * filters
        * formGroupsOrder
        * fullWidth
