@@ -32,8 +32,8 @@
        * props
        * states
        * storeActions
-       * [type](store.type.md)
        * storeLifeCycle
+       * [type](store.type.md)
        * tableColumns
        * tasks
 * [JS API](js_api.md)
