@@ -20,7 +20,7 @@
        * [i18n](i18n.md)
        * [icon](store.icon.md)
        * [labels](store.labels.md)
-       * listViewOnly
+       * [listViewOnly](store.listviewonly.md)
        * [menuGroup](store.menugroup.md)
        * navLinkActiveStyle
        * navLinkHoverStyle
