@@ -27,13 +27,13 @@
        * navLinkHoverStyle
        * navLinkStyle
        * objectLifeCycle
+       * orderBy
        * [type](store.type.md)
        * storeLifeCycle
        * printTemplates
        * states
        * storeActions
        * tableColumns
-       * orderBy
        * tasks
        * props
 * [JS API](js_api.md)
