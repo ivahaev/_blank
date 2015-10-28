@@ -30,9 +30,9 @@
        * orderBy
        * printTemplates
        * props
+       * states
        * [type](store.type.md)
        * storeLifeCycle
-       * states
        * storeActions
        * tableColumns
        * tasks
