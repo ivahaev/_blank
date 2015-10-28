@@ -22,8 +22,8 @@
        * icon
        * labels
        * listViewOnly
-       * [type](store.type.md)
        * [menuGroup](store.menugroup.md)
+       * [type](store.type.md)
        * objectLifeCycle
        * storeLifeCycle
        * printTemplates
