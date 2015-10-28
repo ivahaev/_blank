@@ -28,9 +28,9 @@
        * navLinkStyle
        * objectLifeCycle
        * orderBy
+       * printTemplates
        * [type](store.type.md)
        * storeLifeCycle
-       * printTemplates
        * states
        * storeActions
        * tableColumns
