@@ -23,7 +23,7 @@
        * [listViewOnly](store.listviewonly.md)
        * [menuGroup](store.menugroup.md)
        * [navLinkActiveStyle](store.navlinkactivestyle.md)
-       * navLinkHoverStyle
+       * [navLinkHoverStyle](store.navlinkhoverstyle.md)
        * navLinkStyle
        * objectLifeCycle
        * orderBy
