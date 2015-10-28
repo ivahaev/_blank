@@ -7,7 +7,7 @@
    * [Store Parameters](store_parameters.md)
        * [type](store.type.md)
        * [access](access.md)
-       * menuGroup
+       * [menuGroup](store.menugroup.md)
        * i18n
        * icon
        * filters
