@@ -13,11 +13,11 @@
        * display
        * displayOrder
        * entries
+       * filters
        * [type](store.type.md)
        * [menuGroup](store.menugroup.md)
        * [i18n](i18n.md)
        * icon
-       * filters
        * objectLifeCycle
        * storeLifeCycle
        * printTemplates
