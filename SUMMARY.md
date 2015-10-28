@@ -21,6 +21,7 @@
        * [i18n](i18n.md)
        * icon
        * labels
+       * listViewOnly
        * [type](store.type.md)
        * [menuGroup](store.menugroup.md)
        * objectLifeCycle
@@ -30,7 +31,6 @@
        * storeActions
        * tableColumns
        * orderBy
-       * listViewOnly
        * navLinkStyle
        * navLinkActiveStyle
        * navLinkHoverStyle
