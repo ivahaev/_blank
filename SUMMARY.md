@@ -8,7 +8,7 @@
        * [access](access.md)
        * [actions](store.actions.md)
        * [config](store.config.md)
-       * disableAutoSelect
+       * [disableAutoSelect](store.disableautoselect.md)
        * disablePartialLoad
        * display
        * displayOrder
