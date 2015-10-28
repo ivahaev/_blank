@@ -46,7 +46,7 @@
        * [disabled](action.disabled.md)
        * [enableInStates](action.enableinstates.md)
        * [extra](action.extra.md)
-       * icon
+       * [icon](action.icon.md)
        * localName
        * multi
        * props
