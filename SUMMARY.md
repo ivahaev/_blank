@@ -26,8 +26,8 @@
        * navLinkActiveStyle
        * navLinkHoverStyle
        * navLinkStyle
-       * [type](store.type.md)
        * objectLifeCycle
+       * [type](store.type.md)
        * storeLifeCycle
        * printTemplates
        * states
