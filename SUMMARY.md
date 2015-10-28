@@ -49,7 +49,7 @@
        * [icon](action.icon.md)
        * [localName](action.localname.md)
        * [multi](action.multi.md)
-       * props
+       * [props](action.props.md)
        * script
        * type
 * [JS API](js_api.md)
