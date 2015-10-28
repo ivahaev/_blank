@@ -5,7 +5,7 @@ Introduction to store parameters must be here.
 ## Total list of parameters
 * [type](./store.type.html)
 * [access](./access.html)
-* [menuGroup](./store.menuGroup.html)
+* [menuGroup](./store.menugroup.html)
 * i18n
 * icon
 * filters
