@@ -41,7 +41,7 @@
        * [actionGroup](action.actiongroup.md)
        * [clientPostScript](action.clientpostscript.md)
        * [clientPreScript](action.clientprescript.md)
-       * conditions
+       * [conditions](action.conditions.md)
        * disableInStates
        * disabled
        * enableInStates
