@@ -27,7 +27,7 @@
        * [navLinkStyle](store.navlinkstyle.md)
        * [objectLifeCycle](store.objectlifecycle.md)
        * [orderBy](store.orderby.md)
-       * printTemplates
+       * [printTemplates](store.printtemplates.md)
        * props
        * states
        * storeActions
