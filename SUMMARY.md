@@ -16,6 +16,7 @@
        * filters
        * formGroupsOrder
        * fullWidth
+       * html
        * [type](store.type.md)
        * [menuGroup](store.menugroup.md)
        * [i18n](i18n.md)
@@ -25,7 +26,6 @@
        * printTemplates
        * states
        * storeActions
-       * html
        * labels
        * tableColumns
        * orderBy
