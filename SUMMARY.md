@@ -15,7 +15,7 @@
        * [filters](store.filters.md)
        * [formGroupsOrder](store.formgroupsorder.md)
        * [fullWidth](store.fullwidth.md)
-       * html
+       * [html](store.html.md)
        * httpHooks
        * [i18n](i18n.md)
        * icon
