@@ -39,7 +39,7 @@
    * [Action](store.action.md)
        * [_id](action.id.md)
        * [access](action.access.md)
-       * actionGroup
+       * [actionGroup](action.actiongroup.md)
        * clientPostScript
        * clientPreScript
        * conditions
