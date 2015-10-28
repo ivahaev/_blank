@@ -42,7 +42,7 @@
        * [clientPostScript](action.clientpostscript.md)
        * [clientPreScript](action.clientprescript.md)
        * [conditions](action.conditions.md)
-       * [disableInStates](store.disableinstates.md)
+       * [disableInStates](action.disableinstates.md)
        * [disabled](store.disabled.md)
        * [enableInStates](action.enableinstates.md)
        * [extra](store.extra.md)
