@@ -10,6 +10,7 @@
        * config
        * disableAutoSelect
        * disablePartialLoad
+       * display
        * [type](store.type.md)
        * [menuGroup](store.menugroup.md)
        * [i18n](i18n.md)
@@ -22,7 +23,6 @@
        * states
        * storeActions
        * entries
-       * display
        * displayOrder
        * html
        * labels
