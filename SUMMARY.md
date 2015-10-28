@@ -17,6 +17,7 @@
        * formGroupsOrder
        * fullWidth
        * html
+       * httpHooks
        * [type](store.type.md)
        * [menuGroup](store.menugroup.md)
        * [i18n](i18n.md)
@@ -30,7 +31,6 @@
        * tableColumns
        * orderBy
        * listViewOnly
-       * httpHooks
        * navLinkStyle
        * navLinkActiveStyle
        * navLinkHoverStyle
