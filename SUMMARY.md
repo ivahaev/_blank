@@ -7,6 +7,7 @@
    * [Store Parameters](store_parameters.md)
        * [access](access.md)
        * actions
+       * config
        * [type](store.type.md)
        * [menuGroup](store.menugroup.md)
        * [i18n](i18n.md)
@@ -26,7 +27,6 @@
        * tableColumns
        * disableAutoSelect
        * orderBy
-       * config
        * listViewOnly
        * fullWidth
        * disablePartialLoad
