@@ -24,7 +24,7 @@
        * [menuGroup](store.menugroup.md)
        * [navLinkActiveStyle](store.navlinkactivestyle.md)
        * [navLinkHoverStyle](store.navlinkhoverstyle.md)
-       * navLinkStyle
+       * [navLinkStyle](store.navlinkstyle.md)
        * objectLifeCycle
        * orderBy
        * printTemplates
