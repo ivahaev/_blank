@@ -47,7 +47,7 @@
        * [enableInStates](action.enableinstates.md)
        * [extra](action.extra.md)
        * [icon](action.icon.md)
-       * localName
+       * [localName](action.localname.md)
        * multi
        * props
        * script
