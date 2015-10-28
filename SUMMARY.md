@@ -29,13 +29,13 @@
        * objectLifeCycle
        * orderBy
        * printTemplates
+       * props
        * [type](store.type.md)
        * storeLifeCycle
        * states
        * storeActions
        * tableColumns
        * tasks
-       * props
 * [JS API](js_api.md)
    * [$db](db.md)
        * [$db.Get](db.get.md)
