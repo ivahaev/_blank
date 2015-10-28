@@ -5,8 +5,8 @@
 * [Configuration](configuration.md)
    * [Filters](store.filters.md)
    * [Store Parameters](store_parameters.md)
-       * [type](store.type.md)
        * [access](access.md)
+       * [type](store.type.md)
        * [menuGroup](store.menugroup.md)
        * [i18n](i18n.md)
        * icon
