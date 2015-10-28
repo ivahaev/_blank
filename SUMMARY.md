@@ -41,7 +41,7 @@
        * [access](action.access.md)
        * [actionGroup](action.actiongroup.md)
        * [clientPostScript](action.clientpostscript.md)
-       * clientPreScript
+       * [clientPreScript](action.clientprescript.md)
        * conditions
        * disableInStates
        * disabled
