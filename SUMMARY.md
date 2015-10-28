@@ -18,9 +18,9 @@
        * fullWidth
        * html
        * httpHooks
+       * [i18n](i18n.md)
        * [type](store.type.md)
        * [menuGroup](store.menugroup.md)
-       * [i18n](i18n.md)
        * icon
        * objectLifeCycle
        * storeLifeCycle
