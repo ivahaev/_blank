@@ -19,7 +19,7 @@
        * [httpHooks](store.httphooks.md)
        * [i18n](i18n.md)
        * [icon](store.icon.md)
-       * labels
+       * [labels](store.labels.md)
        * listViewOnly
        * [menuGroup](store.menugroup.md)
        * navLinkActiveStyle
