@@ -48,7 +48,7 @@
        * [extra](action.extra.md)
        * [icon](action.icon.md)
        * [localName](action.localname.md)
-       * multi
+       * [multi](action.multi.md)
        * props
        * script
        * type
