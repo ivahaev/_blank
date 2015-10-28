@@ -8,7 +8,7 @@
        * [type](store.type.md)
        * [access](access.md)
        * [menuGroup](store.menugroup.md)
-       * i18n
+       * [i18n](i18n.md)
        * icon
        * filters
        * objectLifeCycle
