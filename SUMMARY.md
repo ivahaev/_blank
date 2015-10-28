@@ -45,7 +45,7 @@
        * [disableInStates](store.disableinstates.md)
        * [disabled](store.disabled.md)
        * [enableInStates](store.enableinstates.md)
-       * extra
+       * [extra](store.extra.md)
        * groupAccess
        * icon
        * localName
