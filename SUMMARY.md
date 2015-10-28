@@ -7,7 +7,7 @@
    * [Store Parameters](store_parameters.md)
        * [access](access.md)
        * [actions](store.actions.md)
-       * config
+       * [config](store.config.md)
        * disableAutoSelect
        * disablePartialLoad
        * display
