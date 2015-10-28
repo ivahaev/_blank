@@ -13,7 +13,6 @@
        * [displayOrder](store.displayorder.md)
        * [entries](store.entries.md)
        * [Filters](store.filters.md)
-       * filters
        * formGroupsOrder
        * fullWidth
        * html
