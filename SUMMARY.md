@@ -44,7 +44,7 @@
        * [conditions](action.conditions.md)
        * [disableInStates](store.disableinstates.md)
        * [disabled](store.disabled.md)
-       * enableInStates
+       * [enableInStates](store.enableinstates.md)
        * extra
        * groupAccess
        * icon
