@@ -29,7 +29,7 @@
        * [orderBy](store.orderby.md)
        * [printTemplates](store.printtemplates.md)
        * [props](store.props.md)
-       * states
+       * [states](store.states.md)
        * storeActions
        * storeLifeCycle
        * tableColumns
