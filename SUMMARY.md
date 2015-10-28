@@ -20,6 +20,7 @@
        * httpHooks
        * [i18n](i18n.md)
        * icon
+       * labels
        * [type](store.type.md)
        * [menuGroup](store.menugroup.md)
        * objectLifeCycle
@@ -27,7 +28,6 @@
        * printTemplates
        * states
        * storeActions
-       * labels
        * tableColumns
        * orderBy
        * listViewOnly
