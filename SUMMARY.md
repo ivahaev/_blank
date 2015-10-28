@@ -11,6 +11,7 @@
        * disableAutoSelect
        * disablePartialLoad
        * display
+       * displayOrder
        * [type](store.type.md)
        * [menuGroup](store.menugroup.md)
        * [i18n](i18n.md)
@@ -23,7 +24,6 @@
        * states
        * storeActions
        * entries
-       * displayOrder
        * html
        * labels
        * tableColumns
