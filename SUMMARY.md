@@ -15,6 +15,7 @@
        * entries
        * filters
        * formGroupsOrder
+       * fullWidth
        * [type](store.type.md)
        * [menuGroup](store.menugroup.md)
        * [i18n](i18n.md)
@@ -29,7 +30,6 @@
        * tableColumns
        * orderBy
        * listViewOnly
-       * fullWidth
        * httpHooks
        * navLinkStyle
        * navLinkActiveStyle
