@@ -12,7 +12,7 @@
        * [disablePartialLoad](store.disablepartialload.md)
        * [display](store.display.md)
        * [displayOrder](store.displayorder.md)
-       * entries
+       * [entries](store.entries.md)
        * filters
        * formGroupsOrder
        * fullWidth
