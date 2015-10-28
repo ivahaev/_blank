@@ -6,7 +6,7 @@
    * [Filters](store.filters.md)
    * [Store Parameters](store_parameters.md)
        * [access](access.md)
-       * actions
+       * [actions](store.actions.md)
        * config
        * disableAutoSelect
        * disablePartialLoad
