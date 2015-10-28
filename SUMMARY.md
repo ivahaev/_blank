@@ -19,9 +19,9 @@
        * html
        * httpHooks
        * [i18n](i18n.md)
+       * icon
        * [type](store.type.md)
        * [menuGroup](store.menugroup.md)
-       * icon
        * objectLifeCycle
        * storeLifeCycle
        * printTemplates
