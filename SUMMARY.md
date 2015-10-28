@@ -9,7 +9,7 @@
        * [actions](store.actions.md)
        * [config](store.config.md)
        * [disableAutoSelect](store.disableautoselect.md)
-       * disablePartialLoad
+       * [disablePartialLoad](store.disablepartialload.md)
        * display
        * displayOrder
        * entries
