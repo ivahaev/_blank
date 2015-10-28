@@ -50,7 +50,7 @@
        * [localName](action.localname.md)
        * [multi](action.multi.md)
        * [props](action.props.md)
-       * script
+       * [script](action.script.md)
        * type
 * [JS API](js_api.md)
    * [$db](db.md)
