@@ -11,7 +11,7 @@
        * [disableAutoSelect](store.disableautoselect.md)
        * [disablePartialLoad](store.disablepartialload.md)
        * [display](store.display.md)
-       * displayOrder
+       * [displayOrder](store.displayorder.md)
        * entries
        * filters
        * formGroupsOrder
