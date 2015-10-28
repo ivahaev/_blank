@@ -38,7 +38,7 @@
        * [type](store.type.md)
    * [Action](store.action.md)
        * [_id](action.id.md)
-       * access
+       * [access](action.access.md)
        * actionGroup
        * clientPostScript
        * clientPreScript
