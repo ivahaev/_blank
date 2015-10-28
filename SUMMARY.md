@@ -6,6 +6,7 @@
    * [Filters](store.filters.md)
    * [Store Parameters](store_parameters.md)
        * type
+       * access
 * [JS API](js_api.md)
    * [$db](db.md)
        * [$db.Get](db.get.md)
