@@ -9,6 +9,7 @@
        * actions
        * config
        * disableAutoSelect
+       * disablePartialLoad
        * [type](store.type.md)
        * [menuGroup](store.menugroup.md)
        * [i18n](i18n.md)
@@ -29,7 +30,6 @@
        * orderBy
        * listViewOnly
        * fullWidth
-       * disablePartialLoad
        * httpHooks
        * navLinkStyle
        * navLinkActiveStyle
