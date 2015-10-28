@@ -6,6 +6,7 @@
    * [Filters](store.filters.md)
    * [Store Parameters](store_parameters.md)
        * [access](access.md)
+       * actions
        * [type](store.type.md)
        * [menuGroup](store.menugroup.md)
        * [i18n](i18n.md)
@@ -16,7 +17,6 @@
        * printTemplates
        * formGroupsOrder
        * states
-       * actions
        * storeActions
        * entries
        * display
