@@ -28,7 +28,7 @@
        * [objectLifeCycle](store.objectlifecycle.md)
        * [orderBy](store.orderby.md)
        * [printTemplates](store.printtemplates.md)
-       * props
+       * [props](store.props.md)
        * states
        * storeActions
        * storeLifeCycle
