@@ -43,7 +43,7 @@
        * [clientPreScript](action.clientprescript.md)
        * [conditions](action.conditions.md)
        * [disableInStates](action.disableinstates.md)
-       * [disabled](store.disabled.md)
+       * [disabled](action.disabled.md)
        * [enableInStates](action.enableinstates.md)
        * [extra](store.extra.md)
        * icon
