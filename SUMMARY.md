@@ -31,9 +31,9 @@
        * printTemplates
        * props
        * states
+       * storeActions
        * [type](store.type.md)
        * storeLifeCycle
-       * storeActions
        * tableColumns
        * tasks
 * [JS API](js_api.md)
