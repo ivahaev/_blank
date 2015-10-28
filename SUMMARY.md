@@ -14,7 +14,7 @@
        * [entries](store.entries.md)
        * [filters](store.filters.md)
        * [formGroupsOrder](store.formgroupsorder.md)
-       * fullWidth
+       * [fullWidth](store.fullwidth.md)
        * html
        * httpHooks
        * [i18n](i18n.md)
