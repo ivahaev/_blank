@@ -36,7 +36,7 @@
        * tableColumns
        * tasks
        * [type](store.type.md)
-   * Action
+   * [Action](store.action.md)
 * [JS API](js_api.md)
    * [$db](db.md)
        * [$db.Get](db.get.md)
