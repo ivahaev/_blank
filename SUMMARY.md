@@ -12,6 +12,7 @@
        * disablePartialLoad
        * display
        * displayOrder
+       * entries
        * [type](store.type.md)
        * [menuGroup](store.menugroup.md)
        * [i18n](i18n.md)
@@ -23,7 +24,6 @@
        * formGroupsOrder
        * states
        * storeActions
-       * entries
        * html
        * labels
        * tableColumns
