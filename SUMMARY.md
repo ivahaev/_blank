@@ -10,7 +10,7 @@
        * [config](store.config.md)
        * [disableAutoSelect](store.disableautoselect.md)
        * [disablePartialLoad](store.disablepartialload.md)
-       * display
+       * [display](store.display.md)
        * displayOrder
        * entries
        * filters
