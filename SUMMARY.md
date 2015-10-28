@@ -27,6 +27,7 @@
        * orderBy
        * config
        * listViewOnly
+       * fullWidth
 * [JS API](js_api.md)
    * [$db](db.md)
        * [$db.Get](db.get.md)
