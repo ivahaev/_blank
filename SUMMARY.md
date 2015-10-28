@@ -33,7 +33,7 @@
        * [storeActions](store.storeactions.md)
        * [storeLifeCycle](store.storelifecycle.md)
        * [tableColumns](store.tablecolumns.md)
-       * tasks
+       * [tasks](store.tasks.md)
        * [type](store.type.md)
    * [Action](store.action.md)
        * [_id](action.id.md)
