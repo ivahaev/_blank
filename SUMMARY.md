@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Philosophy](philosophy.md)
 * [Configuration](configuration.md)
    * [Store Parameters](store_parameters.md)
        * [access](access.md)
@@ -77,5 +78,4 @@
        * [$response.HTML](response.html.md)
        * [$response.File](response.file.md)
        * [$response.Redirect](response.redirect.md)
-* [Philosophy](philosophy.md)
 
