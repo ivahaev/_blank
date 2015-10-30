@@ -77,4 +77,5 @@
        * [$response.HTML](response.html.md)
        * [$response.File](response.file.md)
        * [$response.Redirect](response.redirect.md)
+* Philosophy
 
