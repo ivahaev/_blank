@@ -19,6 +19,7 @@
        * [i18n](i18n.md)
        * [icon](store.icon.md)
        * [labels](store.labels.md)
+       * [displayOrder](displayorder.md)
        * [listViewOnly](store.listviewonly.md)
        * [menuGroup](store.menugroup.md)
        * [navLinkActiveStyle](store.navlinkactivestyle.md)
@@ -77,5 +78,4 @@
        * [$response.HTML](response.html.md)
        * [$response.File](response.file.md)
        * [$response.Redirect](response.redirect.md)
-* [displayOrder](displayorder.md)
 
