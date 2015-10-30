@@ -10,7 +10,6 @@
        * [disablePartialLoad](store.disablepartialload.md)
        * [display](store.display.md)
        * [displayOrder](store.displayorder.md)
-       * [displayOrder](displayorder.md)
        * [entries](store.entries.md)
        * [filters](store.filters.md)
        * [formGroupsOrder](store.formgroupsorder.md)
