@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
 * [Configuration](configuration.md)
    * [Store Parameters](store_parameters.md)
        * [access](access.md)
