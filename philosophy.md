@@ -16,11 +16,11 @@
 
 ## Управление процессом
 
-Тут про storeLifecycle/objectLifecycle, 
+Тут про actions, storeLifecycle/objectLifecycle, tasks
 
 ## Интеграция
 
-А тут про HTTP hooks
+А тут про HTTP hooks, email module, pbx module
 
 ## А еще...
 
