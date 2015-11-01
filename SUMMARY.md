@@ -81,4 +81,5 @@
    * [fs](js.fs.md)
        * fs.readFile
        * fs.readFileSync
+       * fs.writeFile
 
