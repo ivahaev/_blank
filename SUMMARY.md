@@ -82,4 +82,5 @@
        * fs.readFile
        * fs.readFileSync
        * fs.writeFile
+       * fs.writeFileSync
 
