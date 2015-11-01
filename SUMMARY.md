@@ -82,5 +82,5 @@
        * [fs.readFile](fs.readfile.md)
        * [fs.readFileSync](fs.readfilesync.md)
        * [fs.writeFile](fs.writefile.md)
-       * fs.writeFileSync
+       * [fs.writeFileSync](fs.writefilesync.md)
 
