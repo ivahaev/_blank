@@ -79,4 +79,5 @@
        * [$response.File](response.file.md)
        * [$response.Redirect](response.redirect.md)
    * [fs](js.fs.md)
+       * fs.readFile
 
