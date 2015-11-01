@@ -16,6 +16,7 @@
 
 ## Управление процессом
 
+
 Тут про actions, storeLifecycle/objectLifecycle, tasks
 
 ## Интеграция
