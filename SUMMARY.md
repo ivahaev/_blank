@@ -80,4 +80,5 @@
        * [$response.Redirect](response.redirect.md)
    * [fs](js.fs.md)
        * fs.readFile
+       * fs.readFileSync
 
