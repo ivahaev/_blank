@@ -64,6 +64,7 @@
        * [$db.NextSequence](db.nextsequence.md)
        * [$db.Notify](db.notify.md)
        * [$db.NewId](db.newid.md)
+       * $db.GetAllForUser
    * [email](email.md)
        * [email.send](email.send.md)
    * [$request](request.md)
