@@ -19,7 +19,7 @@
        * [httpHooks](store.httphooks.md)
        * [i18n](i18n.md)
        * [icon](store.icon.md)
-       * label
+       * [label](store.label.md)
        * [labels](store.labels.md)
        * [listViewOnly](store.listviewonly.md)
        * [menuGroup](store.menugroup.md)
