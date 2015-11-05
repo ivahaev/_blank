@@ -38,6 +38,7 @@
        * [type](store.type.md)
        * [template](store.template.md)
        * [templateFile](store.templatefile.md)
+       * label
    * [Action](store.action.md)
        * [_id](action.id.md)
        * [access](action.access.md)
