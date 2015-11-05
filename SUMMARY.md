@@ -27,7 +27,7 @@
        * [navLinkStyle](store.navlinkstyle.md)
        * [objectLifeCycle](store.objectlifecycle.md)
        * [orderBy](store.orderby.md)
-       * prepareItemsScript
+       * [prepareItemsScript](store.prepareitemsscript.md)
        * [printTemplates](store.printtemplates.md)
        * [props](store.props.md)
        * [states](store.states.md)
