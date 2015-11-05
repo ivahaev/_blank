@@ -27,6 +27,7 @@
        * [navLinkStyle](store.navlinkstyle.md)
        * [objectLifeCycle](store.objectlifecycle.md)
        * [orderBy](store.orderby.md)
+       * prepareItemsScript
        * [printTemplates](store.printtemplates.md)
        * [props](store.props.md)
        * [states](store.states.md)
@@ -35,7 +36,6 @@
        * [tableColumns](store.tablecolumns.md)
        * [tasks](store.tasks.md)
        * [type](store.type.md)
-       * prepareItemsScript
        * template
        * templateFile
    * [Action](store.action.md)
