@@ -26,6 +26,7 @@ Introduction to store parameters must be here.
 * navLinkStyle
 * objectLifeCycle
 * orderBy
+* prepareItemsScript
 * printTemplates ???
 * props
 * states
@@ -33,4 +34,6 @@ Introduction to store parameters must be here.
 * storeLifeCycle
 * tableColumns
 * tasks
+* template
+* templateFile
 * [type](./store.type.html)
