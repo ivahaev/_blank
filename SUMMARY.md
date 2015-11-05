@@ -36,7 +36,7 @@
        * [tableColumns](store.tablecolumns.md)
        * [tasks](store.tasks.md)
        * [type](store.type.md)
-       * template
+       * [template](store.template.md)
        * templateFile
    * [Action](store.action.md)
        * [_id](action.id.md)
