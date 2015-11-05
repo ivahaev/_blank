@@ -17,9 +17,9 @@
        * [fullWidth](store.fullwidth.md)
        * [html](store.html.md)
        * [httpHooks](store.httphooks.md)
-       * label
        * [i18n](i18n.md)
        * [icon](store.icon.md)
+       * label
        * [labels](store.labels.md)
        * [listViewOnly](store.listviewonly.md)
        * [menuGroup](store.menugroup.md)
