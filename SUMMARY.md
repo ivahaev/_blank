@@ -37,7 +37,7 @@
        * [tasks](store.tasks.md)
        * [type](store.type.md)
        * [template](store.template.md)
-       * templateFile
+       * [templateFile](store.templatefile.md)
    * [Action](store.action.md)
        * [_id](action.id.md)
        * [access](action.access.md)
