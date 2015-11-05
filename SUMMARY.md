@@ -35,6 +35,7 @@
        * [tableColumns](store.tablecolumns.md)
        * [tasks](store.tasks.md)
        * [type](store.type.md)
+       * prepareItemsScript
    * [Action](store.action.md)
        * [_id](action.id.md)
        * [access](action.access.md)
