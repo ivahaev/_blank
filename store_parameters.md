@@ -18,9 +18,11 @@ Introduction to store parameters must be here.
 * httpHooks
 * [i18n](./i18n.html)
 * icon
+* label
 * labels
 * listViewOnly
 * [menuGroup](./store.menugroup.html)
+* navLabel
 * navLinkActiveStyle
 * navLinkHoverStyle
 * navLinkStyle
