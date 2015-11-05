@@ -39,6 +39,7 @@
        * [template](store.template.md)
        * [templateFile](store.templatefile.md)
        * label
+       * navLabel
    * [Action](store.action.md)
        * [_id](action.id.md)
        * [access](action.access.md)
