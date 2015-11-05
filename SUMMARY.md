@@ -17,6 +17,7 @@
        * [fullWidth](store.fullwidth.md)
        * [html](store.html.md)
        * [httpHooks](store.httphooks.md)
+       * label
        * [i18n](i18n.md)
        * [icon](store.icon.md)
        * [labels](store.labels.md)
@@ -38,7 +39,6 @@
        * [type](store.type.md)
        * [template](store.template.md)
        * [templateFile](store.templatefile.md)
-       * label
        * navLabel
    * [Action](store.action.md)
        * [_id](action.id.md)
