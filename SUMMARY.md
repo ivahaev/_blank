@@ -36,6 +36,7 @@
        * [tasks](store.tasks.md)
        * [type](store.type.md)
        * prepareItemsScript
+       * template
    * [Action](store.action.md)
        * [_id](action.id.md)
        * [access](action.access.md)
