@@ -23,6 +23,7 @@
        * [labels](store.labels.md)
        * [listViewOnly](store.listviewonly.md)
        * [menuGroup](store.menugroup.md)
+       * navLabel
        * [navLinkActiveStyle](store.navlinkactivestyle.md)
        * [navLinkHoverStyle](store.navlinkhoverstyle.md)
        * [navLinkStyle](store.navlinkstyle.md)
@@ -39,7 +40,6 @@
        * [type](store.type.md)
        * [template](store.template.md)
        * [templateFile](store.templatefile.md)
-       * navLabel
    * [Action](store.action.md)
        * [_id](action.id.md)
        * [access](action.access.md)
