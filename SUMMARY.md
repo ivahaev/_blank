@@ -23,7 +23,7 @@
        * [labels](store.labels.md)
        * [listViewOnly](store.listviewonly.md)
        * [menuGroup](store.menugroup.md)
-       * navLabel
+       * [navLabel](store.navlabel.md)
        * [navLinkActiveStyle](store.navlinkactivestyle.md)
        * [navLinkHoverStyle](store.navlinkhoverstyle.md)
        * [navLinkStyle](store.navlinkstyle.md)
