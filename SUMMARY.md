@@ -71,7 +71,7 @@
        * [$db.Notify](db.notify.md)
        * [$db.Set](db.set.md)
    * [$i18n](js.i18n.md)
-       * $i18n.locale
+       * [$i18n.locale](js.i18n.locale.md)
    * [$request](request.md)
        * [$request.Form](request.form.md)
        * [$request.Query](request.query.md)
