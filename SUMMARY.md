@@ -93,6 +93,6 @@
        * [fs.writeFileSync](fs.writefilesync.md)
    * [http](js.http.md)
        * [http.get](js.http.get.md)
-       * http.post
+       * [http.post](js.http.post.md)
        * http.postJSON
 
