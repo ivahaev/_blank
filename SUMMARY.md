@@ -70,6 +70,7 @@
        * [$db.NextSequence](db.nextsequence.md)
        * [$db.Notify](db.notify.md)
        * [$db.Set](db.set.md)
+   * $i18n
    * [$request](request.md)
        * [$request.Form](request.form.md)
        * [$request.Query](request.query.md)
@@ -89,6 +90,5 @@
        * [fs.readFileSync](fs.readfilesync.md)
        * [fs.writeFile](fs.writefile.md)
        * [fs.writeFileSync](fs.writefilesync.md)
-   * $i18n
    * http
 
