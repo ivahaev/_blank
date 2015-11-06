@@ -94,5 +94,5 @@
    * [http](js.http.md)
        * [http.get](js.http.get.md)
        * [http.post](js.http.post.md)
-       * http.postJSON
+       * [http.postJSON](js.http.postjson.md)
 
