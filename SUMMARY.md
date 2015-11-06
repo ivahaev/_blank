@@ -93,4 +93,5 @@
        * [fs.writeFileSync](fs.writefilesync.md)
    * [http](js.http.md)
        * http.get
+       * http.post
 
