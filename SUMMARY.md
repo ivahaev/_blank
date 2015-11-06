@@ -95,4 +95,5 @@
        * [http.get](js.http.get.md)
        * [http.post](js.http.post.md)
        * [http.postJSON](js.http.postjson.md)
+   * handlebars
 
