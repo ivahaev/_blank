@@ -91,9 +91,9 @@
        * [fs.readFileSync](fs.readfilesync.md)
        * [fs.writeFile](fs.writefile.md)
        * [fs.writeFileSync](fs.writefilesync.md)
+   * handlebars
    * [http](js.http.md)
        * [http.get](js.http.get.md)
        * [http.post](js.http.post.md)
        * [http.postJSON](js.http.postjson.md)
-   * handlebars
 
