@@ -93,7 +93,7 @@
        * [handlebars.render](js.handlebars.render.md)
        * [handlebars.renderFile](js.handlebars.renderfile.md)
    * [i18n](js.i18n.md)
-       * [$i18n.get](js.i18n.get.md)
+       * [i18n.get](js.i18n.get.md)
    * [http](js.http.md)
        * [http.get](js.http.get.md)
        * [http.post](js.http.post.md)
