@@ -5,7 +5,9 @@
 
 ## Modules:
 * [$db](./db.html)
+* [$i18n](./js.i18n.html)
 * [$request](./request.html)
 * [$response](./response.html)
 * [email](./email.html)
 * [fs](./js.fs.html)
+* [http](./js.http.html)
