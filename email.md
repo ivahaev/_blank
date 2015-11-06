@@ -10,4 +10,4 @@ var email = require('email');
 
 ## Методы:
 
-[email.send](./email.send.html)
+* [email.send](./email.send.html)
