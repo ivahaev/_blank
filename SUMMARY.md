@@ -92,7 +92,7 @@
        * [fs.writeFile](fs.writefile.md)
        * [fs.writeFileSync](fs.writefilesync.md)
    * [handlebars](js.handlebars.md)
-       * handlebars.render
+       * [handlebars.render](js.handlebars.render.md)
        * handlebars.renderFile
    * [http](js.http.md)
        * [http.get](js.http.get.md)
