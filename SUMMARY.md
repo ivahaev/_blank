@@ -70,7 +70,7 @@
        * [$db.NextSequence](db.nextsequence.md)
        * [$db.Notify](db.notify.md)
        * [$db.Set](db.set.md)
-   * [$i18n](js.i18n.md)
+   * [i18n](js.i18n.md)
        * [$i18n.get](js.i18n.get.md)
    * [$request](request.md)
        * [$request.Form](request.form.md)
