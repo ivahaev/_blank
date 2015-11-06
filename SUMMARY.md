@@ -90,4 +90,5 @@
        * [$response.File](response.file.md)
        * [$response.Redirect](response.redirect.md)
    * $i18n
+   * http
 
