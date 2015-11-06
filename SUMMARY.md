@@ -70,6 +70,13 @@
        * [$db.NextSequence](db.nextsequence.md)
        * [$db.Notify](db.notify.md)
        * [$db.Set](db.set.md)
+   * [$response](response.md)
+       * [$response.Header](response.header.md)
+       * [$response.JSON](response.json.md)
+       * [$response.XML](response.xml.md)
+       * [$response.HTML](response.html.md)
+       * [$response.File](response.file.md)
+       * [$response.Redirect](response.redirect.md)
    * [$request](request.md)
        * [$request.Form](request.form.md)
        * [$request.Query](request.query.md)
@@ -82,13 +89,6 @@
        * [fs.readFileSync](fs.readfilesync.md)
        * [fs.writeFile](fs.writefile.md)
        * [fs.writeFileSync](fs.writefilesync.md)
-   * [$response](response.md)
-       * [$response.Header](response.header.md)
-       * [$response.JSON](response.json.md)
-       * [$response.XML](response.xml.md)
-       * [$response.HTML](response.html.md)
-       * [$response.File](response.file.md)
-       * [$response.Redirect](response.redirect.md)
    * $i18n
    * http
 
