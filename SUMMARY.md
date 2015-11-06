@@ -92,7 +92,7 @@
        * [fs.writeFile](fs.writefile.md)
        * [fs.writeFileSync](fs.writefilesync.md)
    * [http](js.http.md)
-       * http.get
+       * [http.get](js.http.get.md)
        * http.post
        * http.postJSON
 
