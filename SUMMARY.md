@@ -27,8 +27,8 @@
        * [navLinkActiveStyle](store.navlinkactivestyle.md)
        * [navLinkHoverStyle](store.navlinkhoverstyle.md)
        * [navLinkStyle](store.navlinkstyle.md)
-           * objectLifeCycle.didCreate
        * [objectLifeCycle](store.objectlifecycle.md)
+           * objectLifeCycle.didCreate
            * objectLifeCycle.willCreate
        * [orderBy](store.orderby.md)
        * [prepareItemsScript](store.prepareitemsscript.md)
