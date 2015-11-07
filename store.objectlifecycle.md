@@ -24,4 +24,4 @@ Events are:
     }
 ```  
 
-Each hook can contains Javascript scenario that will executed when corresponding event fired.  
+Each hook can contains **Javascript** scenario that will executed when corresponding event fired.  
