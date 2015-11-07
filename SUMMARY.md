@@ -31,7 +31,7 @@
            * [objectLifeCycle.willCreate](store.objectlifecycle.willcreate.md)
            * [objectLifeCycle.didCreate](store.objectlifecycle.didcreate.md)
            * [objectLifeCycle.willSave](store.objectlifecycle.willsave.md)
-           * objectLifeCycle.didSave
+           * [objectLifeCycle.didSave](store.objectlifecycle.didsave.md)
            * objectLifeCycle.willRemove
            * objectLifeCycle.didRemove
            * objectLifeCycle.didRead
