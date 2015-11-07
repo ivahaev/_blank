@@ -14,26 +14,14 @@ Events are:
 
 ```
     "objectLifeCycle": {
-        "willCreate": {},
-        "didCreate": {},
-        "willSave": {},
-        "didSave": {},
-        "willRemove": {},
-        "didRemove": {},
-        "didRead": {}
+        "willCreate": "",
+        "didCreate": "",
+        "willSave": "",
+        "didSave": "",
+        "willRemove": "",
+        "didRemove": "",
+        "didRead": ""
     }
 ```  
 
-## Params
-
-### _id   
-
-Идентификатор объекта (строка)  
-
-### store  
-
-Идентификатор хранилища (строка, опционально). По умолчанию используется текущее хранилище. 
-
-## Return value  
-
-`null` или описание ошибки в виде строки.
+Each hook can contains Javascript scenario that will executed when corresponding event fired.  
