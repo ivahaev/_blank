@@ -77,7 +77,7 @@
        * [$db.NextSequence](db.nextsequence.md)
        * [$db.NextSequenceString](db.nextsequencestring.md)
        * [$db.Notify](db.notify.md)
-       * $db.Object
+       * [$db.Object](db.object.md)
        * [$db.Set](db.set.md)
    * [$request](request.md)
        * [$request.Form](request.form.md)
