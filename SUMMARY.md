@@ -68,7 +68,7 @@
        * [$db.Insert](db.insert.md)
        * [$db.NewId](db.newid.md)
        * [$db.NextSequence](db.nextsequence.md)
-       * $db.NextSequenceString
+       * [$db.NextSequenceString](db.nextsequencestring.md)
        * [$db.Notify](db.notify.md)
        * [$db.Set](db.set.md)
    * [$request](request.md)
