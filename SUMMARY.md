@@ -29,7 +29,7 @@
        * [navLinkStyle](store.navlinkstyle.md)
        * [objectLifeCycle](store.objectlifecycle.md)
            * [objectLifeCycle.willCreate](store.objectlifecycle.willcreate.md)
-           * objectLifeCycle.didCreate
+           * [objectLifeCycle.didCreate](store.objectlifecycle.didcreate.md)
            * objectLifeCycle.willSave
            * objectLifeCycle.didSave
            * objectLifeCycle.willRemove
