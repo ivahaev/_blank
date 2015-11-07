@@ -33,7 +33,7 @@
            * [objectLifeCycle.willSave](store.objectlifecycle.willsave.md)
            * [objectLifeCycle.didSave](store.objectlifecycle.didsave.md)
            * [objectLifeCycle.willRemove](store.objectlifecycle.willremove.md)
-           * objectLifeCycle.didRemove
+           * [objectLifeCycle.didRemove](store.objectlifecycle.didremove.md)
            * objectLifeCycle.didRead
        * [orderBy](store.orderby.md)
        * [prepareItemsScript](store.prepareitemsscript.md)
