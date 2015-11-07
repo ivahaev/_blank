@@ -28,6 +28,7 @@
        * [navLinkHoverStyle](store.navlinkhoverstyle.md)
        * [navLinkStyle](store.navlinkstyle.md)
        * [objectLifeCycle](store.objectlifecycle.md)
+           * objectLifeCycle.willCreate
        * [orderBy](store.orderby.md)
        * [prepareItemsScript](store.prepareitemsscript.md)
        * [printTemplates](store.printtemplates.md)
