@@ -33,6 +33,7 @@
            * objectLifeCycle.willSave
            * objectLifeCycle.didSave
            * objectLifeCycle.willRemove
+           * objectLifeCycle.didRemove
        * [orderBy](store.orderby.md)
        * [prepareItemsScript](store.prepareitemsscript.md)
        * [printTemplates](store.printtemplates.md)
