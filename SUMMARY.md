@@ -34,7 +34,7 @@
            * [objectLifeCycle.didSave](store.objectlifecycle.didsave.md)
            * [objectLifeCycle.willRemove](store.objectlifecycle.willremove.md)
            * [objectLifeCycle.didRemove](store.objectlifecycle.didremove.md)
-           * objectLifeCycle.didRead
+           * [objectLifeCycle.didRead](store.objectlifecycle.didread.md)
        * [orderBy](store.orderby.md)
        * [prepareItemsScript](store.prepareitemsscript.md)
        * [printTemplates](store.printtemplates.md)
