@@ -14,13 +14,13 @@ Events are:
 
 ```
     "objectLifeCycle": {
-        ["willCreate": {},]
-        ["didCreate": {},]
-        ["willSave": {},]
-        ["didSave": {},]
-        ["willRemove": {},]
-        ["didRemove": {},]
-        ["didRead": {}]
+        "willCreate": {},
+        "didCreate": {},
+        "willSave": {},
+        "didSave": {},
+        "willRemove": {},
+        "didRemove": {},
+        "didRead": {}
     }
 ```  
 
