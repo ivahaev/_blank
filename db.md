@@ -12,5 +12,6 @@
 * [$db.Insert](./db.insert.html)
 * [$db.NewId](./db.newid.html)
 * [$db.NextSequence](./db.nextsequence.html)
+* [$db.NextSequenceString](./db.nextsequencestring.html)
 * [$db.Notify](./db.notify.html)
 * [$db.Set](./db.set.html)
