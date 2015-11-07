@@ -32,7 +32,7 @@
            * [objectLifeCycle.didCreate](store.objectlifecycle.didcreate.md)
            * [objectLifeCycle.willSave](store.objectlifecycle.willsave.md)
            * [objectLifeCycle.didSave](store.objectlifecycle.didsave.md)
-           * objectLifeCycle.willRemove
+           * [objectLifeCycle.willRemove](store.objectlifecycle.willremove.md)
            * objectLifeCycle.didRemove
            * objectLifeCycle.didRead
        * [orderBy](store.orderby.md)
