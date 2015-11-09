@@ -79,7 +79,7 @@
        * [$db.Notify](db.notify.md)
        * [$db.Object](db.object.md)
        * [$db.Set](db.set.md)
-       * [$db.SetDangerously](db.setdangerously.md)
+       * [$db.SetDangerously](db.setdangerouslymd.md)
    * [$request](request.md)
        * [$request.Form](request.form.md)
        * [$request.Query](request.query.md)
