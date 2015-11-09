@@ -18,3 +18,4 @@
 * [$db.NextSequenceString](./db.nextsequencestring.html)
 * [$db.Notify](./db.notify.html)
 * [$db.Set](./db.set.html)
+* [$db.SetDangerously](./db.setdangerously.html)
