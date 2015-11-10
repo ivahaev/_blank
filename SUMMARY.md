@@ -72,6 +72,7 @@
        * [$db.GetAll](db.getall.md)
        * [$db.GetAllForUser](db.getallforuser.md)
        * [$db.GetAllStrings](db.getallstrings.md)
+       * [$db.Inc](db.inc.md)
        * [$db.Insert](db.insert.md)
        * [$db.NewId](db.newid.md)
        * [$db.NextSequence](db.nextsequence.md)

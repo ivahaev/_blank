@@ -12,6 +12,7 @@
 * [$db.GetAll](./db.getall.html)
 * [$db.GetAllForUser](./db.getallforuser.html)
 * [$db.GetAllStrings](./db.getallstrings.html)
+* [$db.Inc](./db.inc.html)
 * [$db.Insert](./db.insert.html)
 * [$db.NewId](./db.newid.html)
 * [$db.NextSequence](./db.nextsequence.html)
