@@ -110,4 +110,7 @@
        * [http.postJSON](js.http.postjson.md)
    * [i18n](js.i18n.md)
        * [i18n.get](js.i18n.get.md)
+   * [mutex](js.mutex.md)
+       * [mutex.lock](js.mutex.lock.md)
+       * [mutex.unlock](js.mutex.unlock.md)
 

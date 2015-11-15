@@ -13,12 +13,13 @@
 При выполнении скриптов, доступны различные встроенные модули. Кроме того, имеется возможность загружать с диска сторонние **CommonJS** пакеты с помощью  `require`.  
 
 ## Embedded Modules:
-* [$db](./db.html)
-* [$request](./request.html)
-* [$response](./response.html)
-* [email](./email.html)
-* [fs](./js.fs.html)
-* [handlebars](./js.handlebars.html)
-* [http](./js.http.html)
-* [i18n](./js.i18n.html)
+* [$db](./db.md)
+* [$request](./request.md)
+* [$response](./response.md)
+* [email](./email.md)
+* [fs](./js.fs.md)
+* [handlebars](./js.handlebars.md)
+* [http](./js.http.md)
+* [i18n](./js.i18n.md)
+* [mutex](./js.mutex.md)
 
