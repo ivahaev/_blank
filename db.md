@@ -14,6 +14,7 @@
 * [$db.GetAllStrings](./db.getallstrings.html)
 * [$db.Inc](./db.inc.html)
 * [$db.Insert](./db.insert.html)
+* [$db.LoadVirtualProps](db.loadvirtualprops.md)
 * [$db.NewId](./db.newid.html)
 * [$db.NextSequence](./db.nextsequence.html)
 * [$db.NextSequenceString](./db.nextsequencestring.html)

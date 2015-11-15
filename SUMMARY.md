@@ -74,7 +74,7 @@
        * [$db.GetAllStrings](db.getallstrings.md)
        * [$db.Inc](db.inc.md)
        * [$db.Insert](db.insert.md)
-       * [$db.LoadVirtualProps](db.loadvirtualpropsNew.md)
+       * [$db.LoadVirtualProps](db.loadvirtualprops.md)
        * [$db.NewId](db.newid.md)
        * [$db.NextSequence](db.nextsequence.md)
        * [$db.NextSequenceString](db.nextsequencestring.md)
