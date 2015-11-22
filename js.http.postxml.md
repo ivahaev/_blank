@@ -1,11 +1,11 @@
-# http.postJSON
+# http.postXML
 
-Метод `http.postJSON()` выполняет POST запрос на указанный URL, отправляя переданный JSON объект.
+Метод `http.postXML()` выполняет POST запрос на указанный URL, отправляя переданный сериализованный XML объект.
 
 ## Синтаксис
 
 ```
-http.postJSON(uri, data[, header])
+http.postXML(uri, data[, header])
 ```
 
 ## Параметры
@@ -14,16 +14,10 @@ http.postJSON(uri, data[, header])
 Адрес запроса (строка). Слэши следует экранировать.
 
 ### data
-Данные для выполнения запроса (Javascript объект). 
+Данные для выполнения запроса  (строка). 
 
 ### header
 Дополнительные HTTP заголовки для выполнения запроса (Javascript объект, опционально)
-
-```
-{
-    param: "value"
-}
-```
 
 ## Возвращаемые значения
 
@@ -49,6 +43,6 @@ var params = {
     param: 'yaya.ru',
     param2: 'neya.ru'
 };
-http.postJSON('http:\/\/yandex.ru', params);
+http.postXML('http:\/\/yandex.ru', params);
 ```
 

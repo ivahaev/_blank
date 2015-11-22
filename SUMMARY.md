@@ -108,6 +108,7 @@
        * [http.get](js.http.get.md)
        * [http.post](js.http.post.md)
        * [http.postJSON](js.http.postjson.md)
+       * [http.postXML](js.http.postxml.md)
    * [i18n](js.i18n.md)
        * [i18n.get](js.i18n.get.md)
    * [mutex](js.mutex.md)
