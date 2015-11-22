@@ -11,7 +11,7 @@ var fs = require('fs');
 
 ## Methods
 
-* [readFile](./js.readfile.html)
-* [readFileSync](./js.readfilesync.html)
-* [writeFile](./js.writefile.html)
-* [writeFileSync](./js.writefilesync.html)
+* [readFile](./js.fs.readfile.html)
+* [readFileSync](./js.fs.readfilesync.html)
+* [writeFile](./js.fs.writefile.html)
+* [writeFileSync](./js.fs.writefilesync.html)
