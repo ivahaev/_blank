@@ -71,6 +71,7 @@
        * [$db.Get](db.get.md)
        * [$db.GetAll](db.getall.md)
        * [$db.GetAllForUser](db.getallforuser.md)
+       * [$db.GetAllKeys](./db.getallkeys.md)
        * [$db.GetAllStrings](db.getallstrings.md)
        * [$db.Inc](db.inc.md)
        * [$db.Insert](db.insert.md)
