@@ -1,9 +1,10 @@
 # $response
 
-Модуль `$response`, доступный в http хуках, предназначен для отправки информации в браузер (http клиент).
+Module `$response`, available in http hooks and http actions. Useful for sending data to browser (http client).
 
 ## Methods
 
+* [$response.Excel](./response.excel.html)
 * [$response.Header](./response.header.html)
 * [$response.JSON](./response.json.html)
 * [$response.XML](./response.xml.html)

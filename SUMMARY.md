@@ -89,6 +89,7 @@
        * [$request.Params](request.params.md)
        * [$request.IP](request.ip.md)
    * [$response](response.md)
+       * [$response.Excel](response.excel.md)
        * [$response.Header](response.header.md)
        * [$response.JSON](response.json.md)
        * [$response.XML](response.xml.md)
