@@ -22,7 +22,7 @@ Data to render (Javascript object)
 Filename for download (string, optional)
 
 ## Return value
-Null if success or string error if error.
+`null` if success or string error if error.
 
 ## Example
 
