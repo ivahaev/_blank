@@ -1,6 +1,6 @@
 # $response.Header
 
-Method `$response.Header` sets HTTP header
+Method `$response.Header()` sets HTTP header
 
 ## Syntax
 

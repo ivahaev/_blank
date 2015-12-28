@@ -1,6 +1,6 @@
 # $response.Redirect
 
-Method `$response.Redirect` returns a HTTP redirect to the specific location.
+Method `$response.Redirect()` returns a HTTP redirect to the specific location.
 
 ## Syntax
 

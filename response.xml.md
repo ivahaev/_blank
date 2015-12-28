@@ -1,6 +1,6 @@
 # $response.XML
 
-Method `$response.XML` sets HTTP response code and returns data as XML. Also it sets **Content-Type** HTTP header to **'application/xml'**.
+Method `$response.XML()` sets HTTP response code and returns data as XML. Also it sets **Content-Type** HTTP header to **'application/xml'**.
 
 ## Syntax
 

@@ -1,6 +1,6 @@
 # $response.Excel
 
-Method `$response.Excel` renders report by provided template and writes it file into the body stream in a efficient way.
+Method `$response.Excel()` renders report by provided template and writes it file into the body stream in a efficient way.
 
 ## Syntax
 

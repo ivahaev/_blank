@@ -1,6 +1,6 @@
 # $response.JSON
 
-Method `$response.JSON` sets HTTP response code and returns data as JSON. Also it sets **Content-Type** HTTP header to **'application/json'**.
+Method `$response.JSON()` sets HTTP response code and returns data as JSON. Also it sets **Content-Type** HTTP header to **'application/json'**.
 
 ## Syntax
 

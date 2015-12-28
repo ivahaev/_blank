@@ -1,6 +1,6 @@
 # $response.HTML
 
-Method `$response.HTML` sets HTTP response code and returns data as HTML. Also it sets **Content-Type** HTTP header to **'text/html'**.
+Method `$response.HTML()` sets HTTP response code and returns data as HTML. Also it sets **Content-Type** HTTP header to **'text/html'**.
 
 ## Syntax
 
