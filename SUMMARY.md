@@ -68,6 +68,7 @@
    * [$db](db.md)
        * [$db.Del](db.del.md)
        * [$db.Delete](db.delete.md)
+       * [$db.Find](./db.find.md)
        * [$db.Get](db.get.md)
        * [$db.GetAll](db.getall.md)
        * [$db.GetAllForUser](db.getallforuser.md)
