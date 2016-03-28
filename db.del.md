@@ -1,3 +1,3 @@
-# $db.Del
+# $db.del
 
-Метод `$db.Del()` является коротким псевдонимом метода [$db.Delete()](./db.delete.html). 
+Метод `$db.del()` является коротким псевдонимом метода [$db.delete()](./db.delete.html).
