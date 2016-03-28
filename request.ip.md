@@ -1,3 +1,3 @@
-# $request.IP
+# $request.ip
 
-Property `$request.IP` holds HTTP client's IP address
+Property `$request.ip` holds HTTP client's IP address

@@ -1,11 +1,11 @@
-# $response.Excel
+# $response.excel
 
-Method `$response.Excel()` renders report by provided template and writes it file into the body stream in a efficient way.
+Method `$response.excel()` renders report by provided template and writes it file into the body stream in a efficient way.
 
 ## Syntax
 
 ```
-$response.Excel(template, context[, reportName])
+$response.excel(template, context[, reportName])
 ```
 
 ## Parameters
@@ -27,5 +27,5 @@ Filename for download (string, optional)
 ## Example
 
 ```
-$response.Excel("./template.xlsx", {"name": "John Smith"}, "report.xlsx")
+$response.excel("./template.xlsx", {"name": "John Smith"}, "report.xlsx")
 ```

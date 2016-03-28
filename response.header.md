@@ -1,11 +1,11 @@
-# $response.Header
+# $response.header
 
-Method `$response.Header()` sets HTTP header
+Method `$response.header()` sets HTTP header
 
 ## Syntax
 
 ```
-$response.Header(name, value)
+$response.header(name, value)
 ```
 
 ## Parameters
@@ -19,5 +19,5 @@ Header value (string)
 ## Example
 
 ```
-$response.Header('Content-Disposition', 'attachment; filename="sample.txt"')
+$response.header('Content-Disposition', 'attachment; filename="sample.txt"')
 ```

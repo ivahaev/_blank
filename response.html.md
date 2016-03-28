@@ -1,11 +1,11 @@
-# $response.HTML
+# $response.html
 
-Method `$response.HTML()` sets HTTP response code and returns data as HTML. Also it sets **Content-Type** HTTP header to **'text/html'**.
+Method `$response.html()` sets HTTP response code and returns data as HTML. Also it sets **Content-Type** HTTP header to **'text/html'**.
 
 ## Syntax
 
 ```
-$response.HTML(code, data)
+$response.html(code, data)
 ```
 
 ## Parameters
@@ -19,5 +19,5 @@ Response data (string).
 ## Example
 
 ```
-$response.HTML(200, '<html><body><h1>Hi there!</h1></body></html>')
+$response.html(200, '<html><body><h1>Hi there!</h1></body></html>')
 ```

@@ -1,11 +1,11 @@
-# $response.Redirect
+# $response.redirect
 
-Method `$response.Redirect()` returns a HTTP redirect to the specific location.
+Method `$response.redirect()` returns a HTTP redirect to the specific location.
 
 ## Syntax
 
 ```
-$response.Redirect(location)
+$response.redirect(location)
 ```
 
 ## Parameters
@@ -17,5 +17,5 @@ Location to redirect (string)
 ## Examples
 
 ```
-$response.Redirect('/redirected.html')
+$response.redirect('/redirected.html')
 ```

@@ -1,11 +1,11 @@
-# $response.File
+# $response.file
 
-Method `$response.File()` writes the specified file into the body stream in a efficient way.
+Method `$response.file()` writes the specified file into the body stream in a efficient way.
 
 ## Syntax
 
 ```
-$response.File(filePath)
+$response.file(filePath)
 ```
 
 ## Parameters
@@ -17,5 +17,5 @@ Path to file (string)
 ## Examples
 
 ```
-$response.File('./sample.txt')
+$response.file('./sample.txt')
 ```

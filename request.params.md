@@ -1,6 +1,6 @@
-# $request.Params
+# $request.params
 
-`$request.Params` used to return URL parameters configured in HTTP hook.
+`$request.params` used to return URL parameters configured in HTTP hook.
 
 ## Example
 
@@ -9,7 +9,7 @@
     {
         "uri": "example/:id",
         "method": "GET",
-        "script": "console.log($request.Params['id'])"
+        "script": "console.log($request.params['id'])"
     }
 ]
 ```

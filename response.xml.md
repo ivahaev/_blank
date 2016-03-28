@@ -1,11 +1,11 @@
-# $response.XML
+# $response.xml
 
-Method `$response.XML()` sets HTTP response code and returns data as XML. Also it sets **Content-Type** HTTP header to **'application/xml'**.
+Method `$response.xml()` sets HTTP response code and returns data as XML. Also it sets **Content-Type** HTTP header to **'application/xml'**.
 
 ## Syntax
 
 ```
-$response.XML(code, data)
+$response.xml(code, data)
 ```
 
 ## Parameters
@@ -19,5 +19,5 @@ Response data (string). You need to serialize date manually.
 ## Examples
 
 ```
-$response.XML(200, '<data></data>')
+$response.xml(200, '<data></data>')
 ```

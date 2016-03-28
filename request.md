@@ -4,7 +4,7 @@
 
 ## Properties
 
-* [$request.Form](./request.form.html)
-* [$request.Query](./request.query.html)
-* [$request.Params](./request.params.html)
-* [$request.IP](./request.ip.html)
+* [$request.form](./request.form.html)
+* [$request.query](./request.query.html)
+* [$request.params](./request.params.html)
+* [$request.ip](./request.ip.html)

@@ -4,10 +4,10 @@ Module `$response`, available in http hooks and http actions. Useful for sending
 
 ## Methods
 
-* [$response.Excel](./response.excel.html)
-* [$response.Header](./response.header.html)
-* [$response.JSON](./response.json.html)
-* [$response.XML](./response.xml.html)
-* [$response.HTML](./response.html.html)
-* [$response.File](./response.file.html)
-* [$response.Redirect](./response.redirect.html)
+* [$response.excel](./response.excel.html)
+* [$response.header](./response.header.html)
+* [$response.json](./response.json.html)
+* [$response.xml](./response.xml.html)
+* [$response.html](./response.html.html)
+* [$response.file](./response.file.html)
+* [$response.redirect](./response.redirect.html)
